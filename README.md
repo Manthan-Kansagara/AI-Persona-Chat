@@ -5,7 +5,7 @@ Create your own AI persona and chat with it.
 You describe a person (background, tone, favourite phrases, example conversations, rules), the app turns your answers into one system prompt, sends it to the OpenAI API, and shows the replies in a chat UI.
 
 <!-- Add a screenshot after deploying: ![App screenshot](screenshot.png) -->
-**Live demo:** [https://your-app.streamlit.app](https://ai-persona-chatgit.streamlit.app/) 
+**Live demo:** [AI-Persona-Chat](https://ai-persona-chatgit.streamlit.app/) 
 
 ## Features
 
